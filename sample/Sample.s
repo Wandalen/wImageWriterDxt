@@ -3,5 +3,5 @@ let _ = require( 'wimagewriterdxt' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
